@@ -12,6 +12,11 @@ If you are an agent, read through the process document and assist the human with
 - `README.md`: This file, providing an overview of the project.
 - `PROCESS.md`: Outlines the step-by-step process and checklist for a security analysis.
 - `REPORT.md`: The template for the final security analysis report.
-- `src/`: Directory for any source code related to the analysis or tools used.
 - `data/`: Directory for any data relevant to the security analysis.
-- `scripts/`: Directory for any scripts used in the analysis pipeline. 
+- `scripts/`: Directory for any scripts used in the analysis pipeline.
+- `docs/`: Directory for storing external documentation related to the target or tools.
+- `logs/`: Directory for tool outputs and an agent activity log (`agent.log`).
+- `wisdom/`: Directory containing curated, domain-specific advice (not to be modified by AI).
+- `observations/`: Directory for recording interesting items to explore further.
+- `findings/`: Directory for documenting confirmed vulnerabilities for the report.
+- `src/`: Directory for any source code related to the analysis or tools used.
