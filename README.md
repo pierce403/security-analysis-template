@@ -19,3 +19,10 @@ If you are an agent, read through the process document and assist the human with
 - `wisdom/`: Directory containing curated, domain-specific advice (not to be modified by AI).
 - `observations/`: Directory for recording interesting items to explore further.
 - `findings/`: Directory for documenting confirmed vulnerabilities for the report.
+
+## License
+
+Original project code and documentation are licensed under the
+[Apache License 2.0](LICENSE). Third-party dependencies, source excerpts,
+assets, and other third-party material retain their respective licenses and
+copyright notices; this grant does not relicense that material.
